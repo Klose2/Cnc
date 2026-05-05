@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ 我的Obsidian笔记主页 欢迎访问我的笔记网站！. ]]></description>
+    <pubDate>Tue, 05 May 2026 17:54:56 GMT</pubDate>
+  </item><item>
+    <title>1</title>
+    <link>https://quartz.jzhao.xyz/1</link>
+    <guid>https://quartz.jzhao.xyz/1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>2</title>
+    <link>https://quartz.jzhao.xyz/2</link>
+    <guid>https://quartz.jzhao.xyz/2</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>3</title>
+    <link>https://quartz.jzhao.xyz/3</link>
+    <guid>https://quartz.jzhao.xyz/3</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>4</title>
+    <link>https://quartz.jzhao.xyz/4</link>
+    <guid>https://quartz.jzhao.xyz/4</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>5</title>
+    <link>https://quartz.jzhao.xyz/5</link>
+    <guid>https://quartz.jzhao.xyz/5</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>未命名 1</title>
+    <link>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-1</link>
+    <guid>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>未命名 2</title>
+    <link>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-2</link>
+    <guid>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-2</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>未命名</title>
+    <link>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D</link>
+    <guid>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item><item>
+    <title>欢迎</title>
+    <link>https://quartz.jzhao.xyz/%E6%AC%A2%E8%BF%8E</link>
+    <guid>https://quartz.jzhao.xyz/%E6%AC%A2%E8%BF%8E</guid>
+    <description><![CDATA[ 这是你的新仓库。 写点笔记，创建链接，或者试一试导入器插件! 当你准备好了，就将该笔记文件删除，使这个仓库为你所用。. ]]></description>
+    <pubDate>Tue, 05 May 2026 16:57:03 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
