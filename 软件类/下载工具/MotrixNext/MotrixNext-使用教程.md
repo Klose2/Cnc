@@ -1,4 +1,4 @@
-
+--------------------------------------------------
 要搭配Edge插件实现捕获下载
 --------------------------------------------------
 [插件链接](https://microsoftedge.microsoft.com/addons/detail/motrix-next-extension/loojjolhejmakcdlbidigoniobfanjlb)
@@ -11,4 +11,5 @@ API端口修改为16801.密钥可有可无（软件内查看密钥）
 ![[Pasted image 20260506103341.png]]
 
 --------------------------------------------------
-软件内
+软件内设置-点左下齿轮-基础
+![[Pasted image 20260506103521.png]]
