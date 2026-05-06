@@ -11,14 +11,12 @@
             "id": "ab9c207151b0c828",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/icon.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "icon"
             }
           }
         ]
@@ -183,8 +181,14 @@
   },
   "active": "1b5e16ade58ea3b0",
   "lastOpenFiles": [
-    "index-og-image.webp",
+    "软件类",
+    "动漫类",
+    "游戏类",
+    "电影类",
+    "static/og-image.png",
+    "static/icon.png",
     "index.md",
+    "index-og-image.webp",
     "未命名-og-image.webp",
     "未命名-2-og-image.webp",
     "未命名-1-og-image.webp",
@@ -198,8 +202,6 @@
     "4-og-image.webp",
     "4.md",
     "1-og-image.webp",
-    "3-og-image.webp",
-    "2-og-image.webp",
     "3.md",
     "2.md",
     "1.md",
@@ -209,9 +211,6 @@
     "tags/index.html",
     "tags",
     "static/giscus/light.css",
-    "static/giscus/dark.css",
-    "static/giscus",
-    "static/contentIndex.json",
-    "static"
+    "static/giscus/dark.css"
   ]
 }
