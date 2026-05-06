@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浏览器/Edge插件/未命名.md",
+                "file": "浏览器/Edge插件/Aria2下载.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Aria2下载"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "1f3538d495a911bc",
   "lastOpenFiles": [
+    "浏览器/Edge插件/B站美化.md",
     "浏览器/Edge插件/Aria2下载.md",
-    "浏览器/Edge插件/未命名.md",
+    "Pasted image 20260506095431.png",
     "浏览器/Edge插件/广告拦截.md",
     "浏览器/Edge插件",
     "杂项/壁纸类/哲风壁.md",
@@ -215,7 +216,6 @@
     "动漫类/在线网站~",
     "电影类/字幕获取/在线免费翻译字幕.md",
     "电影类/字幕获取/字幕库.md",
-    "电影类/资源搜索/懒盘搜索.md",
     "电影类/字幕获取",
     "电影类/字幕获取",
     "电影类/资源搜索",
@@ -227,7 +227,6 @@
     "未命名-1-og-image.webp",
     "欢迎-og-image.webp",
     "5-og-image.webp",
-    "4-og-image.webp",
-    "1-og-image.webp"
+    "4-og-image.webp"
   ]
 }
