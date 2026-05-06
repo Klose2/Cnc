@@ -1,0 +1,1 @@
+[Smart HTTPS](https://microsoftedge.microsoft.com/addons/detail/smart-https/hmclfiddnlhfnemdelgodbcmhpobomha)
