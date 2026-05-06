@@ -1,0 +1,1 @@
+[视频/直播/音频/字幕/图片下载](https://microsoftedge.microsoft.com/addons/detail/snapwc-%E8%A7%86%E9%A2%91%E7%9B%B4%E6%92%AD%E9%9F%B3%E9%A2%91%E5%AD%97%E5%B9%95%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD/ceceiebkhimpmofjlnjphlmnbbbgidak)
