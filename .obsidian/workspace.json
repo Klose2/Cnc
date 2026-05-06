@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电影类/字幕获取/在线免费翻译字幕.md",
+                "file": "电影类/字幕获取/Free Online Subtitle翻译.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "在线免费翻译字幕"
+              "title": "Free Online Subtitle翻译"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "ab9c207151b0c828",
   "lastOpenFiles": [
-    "电影类/字幕获取/字幕库.md",
     "电影类/字幕获取/在线免费翻译字幕.md",
+    "电影类/字幕获取/Free Online Subtitle翻译.md",
+    "电影类/字幕获取/字幕库.md",
     "电影类/资源搜索/懒盘搜索.md",
     "电影类/字幕获取",
     "电影类/字幕获取",
