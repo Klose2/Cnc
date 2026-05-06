@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电影类/在线网站/奈飞工厂.md",
+                "file": "电影类/资源搜索/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "奈飞工厂"
+              "title": "未命名"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "ab9c207151b0c828",
   "lastOpenFiles": [
+    "电影类/在线网站/奈飞工厂.md",
+    "电影类/资源搜索/未命名.md",
+    "电影类/资源搜索",
     "电影类/磁力网站/国外假RaRGB.md",
     "电影类/磁力网站/海盗湾.md",
     "电影类/在线网站/爱看机器人.md",
     "电影类/磁力网站",
-    "电影类/在线网站/奈飞工厂.md",
     "index.md",
     "电影类/在线网站",
     "static/og-image.png",
@@ -215,7 +217,6 @@
     "1.md",
     "未命名.base",
     "2.html",
-    "1.html",
-    "首页/index.html"
+    "1.html"
   ]
 }
