@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "static/icon.png"
+                "file": "static/og-image.png"
               },
               "icon": "lucide-image",
-              "title": "icon"
+              "title": "og-image"
             }
           }
         ]
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -181,13 +181,13 @@
   },
   "active": "1b5e16ade58ea3b0",
   "lastOpenFiles": [
+    "static/icon.png",
+    "首页/index.md",
+    "static/og-image.png",
     "软件类",
     "动漫类",
     "游戏类",
     "电影类",
-    "static/og-image.png",
-    "static/icon.png",
-    "index.md",
     "index-og-image.webp",
     "未命名-og-image.webp",
     "未命名-2-og-image.webp",
@@ -208,9 +208,8 @@
     "未命名.base",
     "2.html",
     "1.html",
-    "tags/index.html",
-    "tags",
-    "static/giscus/light.css",
-    "static/giscus/dark.css"
+    "首页/index.html",
+    "首页",
+    "static/giscus/light.css"
   ]
 }
