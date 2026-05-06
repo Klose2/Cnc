@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电影类/资源搜索/懒盘搜索.md",
+                "file": "电影类/字幕获取/在线免费翻译字幕.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "懒盘搜索"
+              "title": "在线免费翻译字幕"
             }
           }
         ]
@@ -181,12 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b5e16ade58ea3b0",
+  "active": "ab9c207151b0c828",
   "lastOpenFiles": [
-    "电影类/未命名",
-    "电影类/未命名",
-    "电影类/在线网站/奈飞工厂.md",
+    "电影类/字幕获取/字幕库.md",
+    "电影类/字幕获取/在线免费翻译字幕.md",
     "电影类/资源搜索/懒盘搜索.md",
+    "电影类/字幕获取",
+    "电影类/字幕获取",
+    "电影类/在线网站/奈飞工厂.md",
     "电影类/资源搜索",
     "电影类/磁力网站/国外假RaRGB.md",
     "电影类/磁力网站/海盗湾.md",
@@ -217,7 +219,6 @@
     "3.md",
     "2.md",
     "1.md",
-    "未命名.base",
-    "2.html"
+    "未命名.base"
   ]
 }
