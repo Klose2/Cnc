@@ -1,5 +1,5 @@
 [类似Idm](https://abdownloadmanager.com/)
--不支持磁力-还是推荐用motrix
+-不支持磁力-
 
 带捕获抓取，http下载速度一流，吃满宽带，要搭配浏览器插件使用，注意端口同步
 
