@@ -11,12 +11,14 @@
             "id": "ab9c207151b0c828",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/og-image.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "og-image"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -181,9 +183,9 @@
   },
   "active": "1b5e16ade58ea3b0",
   "lastOpenFiles": [
-    "static/icon.png",
-    "首页/index.md",
     "static/og-image.png",
+    "static/icon.png",
+    "index.md",
     "软件类",
     "动漫类",
     "游戏类",
