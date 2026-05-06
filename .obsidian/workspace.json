@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏类/Game520.md",
+                "file": "游戏类/俄罗斯大站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game520"
+              "title": "俄罗斯大站"
             }
           }
         ],
@@ -198,8 +198,9 @@
   },
   "active": "1f3538d495a911bc",
   "lastOpenFiles": [
-    "游戏类/小妖怪分享.md",
     "游戏类/Game520.md",
+    "游戏类/俄罗斯大站.md",
+    "游戏类/小妖怪分享.md",
     "未命名 1.md",
     "软件类/未命名.md",
     "未命名.md",
@@ -242,7 +243,6 @@
     "4.md",
     "1-og-image.webp",
     "3.md",
-    "2.md",
-    "1.md"
+    "2.md"
   ]
 }
