@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏类/俄罗斯大站.md",
+                "file": "工具类/解密.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "俄罗斯大站"
+              "title": "解密"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "1f3538d495a911bc",
   "lastOpenFiles": [
-    "游戏类/Game520.md",
     "游戏类/俄罗斯大站.md",
+    "工具类/解密.md",
+    "工具类",
+    "游戏类/Game520.md",
     "游戏类/小妖怪分享.md",
     "未命名 1.md",
     "软件类/未命名.md",
@@ -229,7 +231,6 @@
     "static/icon.png",
     "软件类",
     "动漫类",
-    "软件类",
     "index-og-image.webp",
     "未命名-og-image.webp",
     "未命名-2-og-image.webp",
@@ -242,7 +243,6 @@
     "4-og-image.webp",
     "4.md",
     "1-og-image.webp",
-    "3.md",
-    "2.md"
+    "3.md"
   ]
 }
