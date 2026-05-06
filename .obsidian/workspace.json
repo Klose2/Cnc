@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/壁纸类/哲风壁.md",
+                "file": "浏览器/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "哲风壁"
+              "title": "未命名"
             }
           }
         ]
@@ -183,9 +183,11 @@
   },
   "active": "1b5e16ade58ea3b0",
   "lastOpenFiles": [
-    "浏览器插件",
-    "杂项/壁纸类/彼岸壁纸.md",
+    "浏览器/插件类",
     "杂项/壁纸类/哲风壁.md",
+    "浏览器/未命名.md",
+    "浏览器",
+    "杂项/壁纸类/彼岸壁纸.md",
     "杂项/壁纸类/MoeWalls.md",
     "工具类/软仓-各类办公软件.md",
     "杂项/壁纸类",
@@ -216,9 +218,7 @@
     "电影类/字幕获取",
     "电影类/在线网站~/奈飞工厂.md",
     "电影类/资源搜索",
-    "电影类/磁力网站/国外假RaRGB.md",
     "电影类/磁力网站",
-    "电影类/在线网站~",
     "static/og-image.png",
     "static/icon.png",
     "index-og-image.webp",
