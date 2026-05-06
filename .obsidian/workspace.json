@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具类/兽语解密.md",
+                "file": "工具类/Ventusky - 天气预报.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "兽语解密"
+              "title": "Ventusky - 天气预报"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "1f3538d495a911bc",
   "lastOpenFiles": [
-    "工具类/YouTube.md",
     "工具类/兽语解密.md",
+    "工具类/Ventusky - 天气预报.md",
+    "工具类/YouTube.md",
     "游戏类/俄罗斯大站.md",
     "工具类",
     "游戏类/Game520.md",
@@ -227,7 +228,6 @@
     "5-og-image.webp",
     "5.md",
     "4-og-image.webp",
-    "4.md",
     "1-og-image.webp"
   ]
 }
