@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浏览器/Edge插件/Aria2下载.md",
+                "file": "浏览器/Edge插件/M3U8-HLS视频下载.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aria2下载"
+              "title": "M3U8-HLS视频下载"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "1f3538d495a911bc",
   "lastOpenFiles": [
-    "浏览器/Edge插件/B站美化.md",
+    "浏览器/Edge插件/暗色护眼.md",
+    "浏览器/Edge插件/M3U8-HLS视频下载.md",
     "浏览器/Edge插件/Aria2下载.md",
+    "浏览器/Edge插件/B站美化.md",
     "Pasted image 20260506095431.png",
     "浏览器/Edge插件/广告拦截.md",
     "浏览器/Edge插件",
@@ -215,7 +217,6 @@
     "电影类/字幕获取/Free Online Subtitle翻译.md",
     "动漫类/在线网站~",
     "电影类/字幕获取/在线免费翻译字幕.md",
-    "电影类/字幕获取/字幕库.md",
     "电影类/字幕获取",
     "电影类/字幕获取",
     "电影类/资源搜索",

@@ -1,0 +1,1 @@
+[FetchV ](https://microsoftedge.microsoft.com/addons/detail/fetchv-m3u8hls%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8/dbepbhhcmhodojepbagfppgpieeplpik)
