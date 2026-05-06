@@ -11,10 +11,14 @@
             "id": "ab9c207151b0c828",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名 1"
             }
           }
         ]
@@ -177,11 +181,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab9c207151b0c828",
+  "active": "1b5e16ade58ea3b0",
   "lastOpenFiles": [
+    "未命名.md",
+    "欢迎-og-image.webp",
+    "欢迎.md",
+    "5-og-image.webp",
+    "5.md",
+    "4-og-image.webp",
+    "4.md",
+    "1-og-image.webp",
+    "3-og-image.webp",
+    "2-og-image.webp",
+    "3.md",
+    "2.md",
+    "1.md",
     "未命名.base",
     "2.html",
-    "1-og-image.webp",
     "1.html",
     "tags/index.html",
     "tags",
@@ -194,21 +210,8 @@
     "static",
     "未命名-og-image.webp",
     "未命名-2-og-image.webp",
-    "未命名-2.html",
-    "未命名-1-og-image.webp",
-    "欢迎-og-image.webp",
-    "index-og-image.webp",
-    "5-og-image.webp",
-    "4-og-image.webp",
     "index.md",
     "未命名 2.md",
-    "5.md",
-    "4.md",
-    "3.md",
-    "2.md",
-    "未命名 1.md",
-    "未命名.md",
-    "1.md",
-    "欢迎.md"
+    "未命名 1.md"
   ]
 }
