@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "电影类/在线网站/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "未命名"
             }
           }
         ]
@@ -181,11 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b5e16ade58ea3b0",
+  "active": "ab9c207151b0c828",
   "lastOpenFiles": [
+    "index.md",
+    "电影类/在线网站/未命名.md",
+    "电影类/在线网站",
     "static/og-image.png",
     "static/icon.png",
-    "index.md",
     "软件类",
     "动漫类",
     "游戏类",
@@ -211,7 +213,6 @@
     "2.html",
     "1.html",
     "首页/index.html",
-    "首页",
-    "static/giscus/light.css"
+    "首页"
   ]
 }
